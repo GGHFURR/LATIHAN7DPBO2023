@@ -29,7 +29,7 @@ kelas sychronization = kelas ini yang new kan game dan menjalankan nya
 
 
 ## Alur Program
-User dapat menekan tombol WASD/panah key pada keyboard untuk menggerakkan object, setiap kali user menekan tombol WASD/panah maka skor akan bertambah 1,akan tetapi skor tidak bertambah apabila user menakan tombol yang sama dalam urutan misalkan setelah W user menekan W lagi maka skor tidak akan bertambah. skor akan bertambah jika tombol dilepaskan. jika tombol hanya ditekan skor belum bertambah, tapi ketika di lepas skor akan bertambah 1. lal
+User dapat menekan tombol WASD/panah key pada keyboard untuk menggerakkan object, setiap kali user menekan tombol WASD/panah maka skor akan bertambah 1,akan tetapi skor tidak bertambah apabila user menakan tombol yang sama dalam urutan misalkan setelah W user menekan W lagi maka skor tidak akan bertambah.
 
 ## dokumentasi program
 ![Synchronization Tutorial 2023-04-25 12-45-07](https://user-images.githubusercontent.com/100921271/234185406-cc7b1a10-3dfd-4932-8b70-531d5874385f.gif)
