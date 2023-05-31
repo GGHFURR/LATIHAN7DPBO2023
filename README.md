@@ -1,4 +1,4 @@
-# TP2DPBO2023
+# LP7DPBO2023
 Saya Muhammad Fadlan Ghafur NIM 2106923 mengerjakan LP7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
